@@ -1,4 +1,4 @@
-// INPUT UTENTE
+// INPUT
 // nome
 var nome = prompt("inserisci il tuo nome")
 // cognome
